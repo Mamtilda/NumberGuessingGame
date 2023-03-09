@@ -9,7 +9,7 @@ for i in range (5, 0, -1):
         sys.exit()
         
     else:
-        print("Sorry, that is incorrect.")
+        print("Sorry, that is incorrect. Try again!")
         
     if i == 1:
         print("You are all out of moves. The correct answer was 25.")
